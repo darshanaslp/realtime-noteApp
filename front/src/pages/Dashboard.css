@@ -1,0 +1,30 @@
+/* Fonts for different parts of the dashboard */
+
+.font-created-notes {
+    font-family: 'Lobster', cursive;
+  }
+  
+  .font-create-note-button {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .font-no-notes {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .font-shared-notes {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .font-no-shared-notes {
+    font-family: 'Courgette', cursive;
+  }
+  
+  .font-user-note {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .font-shared-note {
+    font-family: 'Raleway', sans-serif;
+  }
+  
