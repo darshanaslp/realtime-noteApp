@@ -15,20 +15,24 @@ This repository contain fullstack app for the Note manager app
 -src
 
  --component
+ 
   ---auth
   ---note
 
  --redux
+ 
   ---action
   ---reducer
   ---store
  
  --service
+ 
   ---noteService
   ---authService
   ---socket
  
  --pages
+ 
   ---header
   ---footer
   ---sidebar
